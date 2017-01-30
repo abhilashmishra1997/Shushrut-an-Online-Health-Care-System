@@ -1,5 +1,4 @@
-# Shushrut-an-Online-Health-Care-System
-# Because without health life is not life; it is only a state of langour and suffering - an image of death. 
+# Shushrut-an-Online-Health-Care-System 
 
 Shushrut is an Online Health Care System to provide Real-time Check-Up, in addition to other features like:  
 1. Pre-consultation facility ,
