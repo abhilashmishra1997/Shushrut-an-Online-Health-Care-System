@@ -4,7 +4,7 @@ Shushrut is an Online Health Care System to provide Real-time Check-Up, in addit
 
 1. Pre-consultation facility 
 
-2. Online prescriptions issued through Shushrut interface asdfasdfasdfsadf
+2. Online prescriptions issued through Shushrut interface                                                         
 
 3. Master database for maintaining records for each patient 
 
