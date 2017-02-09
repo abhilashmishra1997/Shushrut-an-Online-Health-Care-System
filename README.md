@@ -10,7 +10,7 @@ Shushrut is an Online Health Care System to provide Real-time Check-Up, in addit
 
 4. Communication over E-Mails, Text messaging facility, video conferencing 
 
-5. Storage of the valuable patient's health information, like symptoms, illness and medicines in a proper format, so that it could be used for carrying out further research works  
+5. Storage of the valuable health related information, like symptoms, illness and medicines in a proper format, so that it could be used for carrying out further research works  
 
 6. Separate user-friendly interfaces for Doctors and Patients.  
 
